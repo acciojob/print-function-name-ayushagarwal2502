@@ -1,5 +1,5 @@
 //your JS code here. If required.
-function AccioJob(){
+function accioJob(){
 	return arguments.callee.name;
 }
-alert(AccioJob());
+alert(accioJob());
